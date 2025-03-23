@@ -27,6 +27,7 @@ header h1 {
 #menu {
     display: flex;
     gap: 20px; /* Espaço entre os links do menu */
+    
 }
 
 #menu a {
